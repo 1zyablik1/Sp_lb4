@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\2 sem\спро\lb4\lb4\Source.cpp(156,17): warning C4101: ps: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\2 sem\спро\lb4\lb4\Source.cpp(158,10): warning C4101: rt: неиспользованная локальная переменная
+  lb4.vcxproj -> C:\Users\Admin\Desktop\2 sem\спро\lb4\Debug\lb4.exe
